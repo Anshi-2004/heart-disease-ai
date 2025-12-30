@@ -121,9 +121,6 @@ Required columns:
 
 This tool is for **educational and research purposes only**. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult qualified healthcare providers for medical decisions.
 
-## 📜 License
-
-MIT License - See LICENSE file for details
 
 ## 👥 Contributing
 
